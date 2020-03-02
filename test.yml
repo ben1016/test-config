@@ -1,7 +1,11 @@
 retrieve-fatca:
   inorg:
     host: this-is-retrieve-fatca-inorg
+  tworg:
+    host: this-is-retrieve-tw-fatca
     
 retrieve-tax-fatca:
   inorg:
     host: this-is-retrieve-tax-fatca-inorg
+  tworg:
+    host: this-is-retrieve-tw-fatca
