@@ -1,13 +1,3 @@
 retrieve-fatca:
   inorg:
     host: this-is-retrieve-fatca-inorg
-  sgorg:
-    host: this-is-retrieve-fatca-sgorg
-    
-retrieve-tax-fatca:
-  inorg:
-    host: this-is-retrieve-tax-fatca-inorg
-  sgorg:
-    host: this-is-retrieve-tax-fatca-sgorg
-  tworg:
-    host: this-is-retrieve-tw-fatca
