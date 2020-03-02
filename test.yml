@@ -9,3 +9,5 @@ retrieve-tax-fatca:
     host: this-is-retrieve-tax-fatca-inorg
   sgorg:
     host: this-is-retrieve-tax-fatca-sgorg
+  tworg:
+    host: this-is-retrieve-tw-fatca
