@@ -1,0 +1,7 @@
+retrieve-fatca:
+  inorg:
+    host: this-is-retrieve-fatca-inorg
+    
+retrieve-tax-fatca:
+  inorg:
+    host: this-is-retrieve-tax-fatca-inorg
